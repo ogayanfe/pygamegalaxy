@@ -1,5 +1,5 @@
 # pygamegalaxy
-A endless survival game
+This is a product of two days of hacking around with the pygame python library.  
 
 
 ## Video Demo
